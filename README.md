@@ -3,7 +3,7 @@ Generar un programa utilizando hilos, procesos, demonios o concurrencias.
 
 Se utilizo Hilos para generar una simulación de descarga dentro de python 
 
-# Interaz
+# Interfaz
 ![image](https://github.com/user-attachments/assets/3cd1b3b6-8f3c-473b-8a62-d662084904b8)
 
 # Descargas 
